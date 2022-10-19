@@ -1052,7 +1052,7 @@ function ChannelDetails({ data }) {
         </div>
         <div
           style={{ backgroundColor: "red" }}
-          className="thirdcolcontainer anim"
+          className="thirdcolcontainer anim2"
         >
           <div>
             <img

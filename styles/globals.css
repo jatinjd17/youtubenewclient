@@ -148,3 +148,9 @@ a {
   -moz-animation: argh-my-eyes 3s infinite;
   animation: argh-my-eyes 3s infinite;
 }
+
+.anim2 {
+  -webkit-animation: argh-my-eyes 5s infinite;
+  -moz-animation: argh-my-eyes 5s infinite;
+  animation: argh-my-eyes 5s infinite;
+}
