@@ -1,7 +1,5 @@
 import React, { useState } from "react";
-import "react-stacked-carousel/dist/index.css";
 import ReactCardCarousel from "react-card-carousel";
-import LinesEllipsis from "react-lines-ellipsis";
 
 function ChannelDetails({ data }) {
   const maindata = JSON.parse(data);
